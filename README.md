@@ -1,2 +1,2 @@
-# SeijongKing
-hi
+# Hogun Kim
+
